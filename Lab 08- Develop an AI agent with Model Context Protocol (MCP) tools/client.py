@@ -154,7 +154,6 @@ async def chat_loop(session):
                         )
                     )
 
-
             # Send function call outputs back to the model and retrieve a response
             # Send function call outputs back to the model and retrieve a response
             if input_list:
@@ -164,7 +163,8 @@ async def chat_loop(session):
                         extra_body={"agent_reference": {"name": agent.name, "type": "agent_reference"}},
                 )
             print(f"Agent response: {response.output_text}")
-           
+
+         
         # Delete the agent when done
         print("Cleaning up agents:")
         project_client.agents.delete_version(agent_name=agent.name, agent_version=agent.version)
