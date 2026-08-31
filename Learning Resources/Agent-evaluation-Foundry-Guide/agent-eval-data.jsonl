@@ -1,0 +1,30 @@
+{"query":"What is Microsoft Foundry?","ground_truth":"Microsoft Foundry is a platform for building, deploying, and evaluating AI applications and agents."}
+{"query":"What is Azure OpenAI Service?","ground_truth":"Azure OpenAI Service provides access to OpenAI models through Azure with enterprise security and governance."}
+{"query":"Explain RAG in one sentence.","ground_truth":"Retrieval-Augmented Generation combines retrieved data with LLM reasoning to generate accurate responses."}
+{"query":"What is GPT-4o?","ground_truth":"GPT-4o is OpenAI's multimodal model supporting text, vision, and audio capabilities."}
+{"query":"Why should agents be evaluated?","ground_truth":"Agents should be evaluated to measure quality, safety, instruction following, and overall performance."}
+{"query":"What is an AI agent?","ground_truth":"An AI agent is a system that can reason, take actions, and interact with tools to accomplish tasks."}
+{"query":"What is prompt engineering?","ground_truth":"Prompt engineering is the practice of designing instructions that guide AI model behavior."}
+{"query":"What is grounding in AI?","ground_truth":"Grounding ensures that AI responses are based on provided data or trusted sources."}
+{"query":"What is a large language model?","ground_truth":"A large language model is an AI system trained on vast text data to understand and generate language."}
+{"query":"What is multimodal AI?","ground_truth":"Multimodal AI can process and generate content across multiple data types such as text, images, and audio."}
+{"query":"What is the purpose of an embedding model?","ground_truth":"An embedding model converts content into numerical vectors that enable semantic search and similarity matching."}
+{"query":"What is semantic search?","ground_truth":"Semantic search retrieves information based on meaning rather than exact keyword matches."}
+{"query":"What is vector search?","ground_truth":"Vector search finds similar content by comparing vector representations of data."}
+{"query":"What is a system prompt?","ground_truth":"A system prompt defines the behavior, role, and instructions for an AI model."}
+{"query":"What is hallucination in AI?","ground_truth":"Hallucination occurs when an AI model generates information that is incorrect or unsupported."}
+{"query":"Why is RAG useful?","ground_truth":"RAG improves answer accuracy by incorporating relevant retrieved information into response generation."}
+{"query":"What is Azure AI Foundry used for?","ground_truth":"Azure AI Foundry is used to build, customize, deploy, and evaluate AI applications and agents."}
+{"query":"What is model evaluation?","ground_truth":"Model evaluation measures the quality, accuracy, safety, and performance of AI outputs."}
+{"query":"What is task adherence?","ground_truth":"Task adherence measures how well an AI response follows the given instructions."}
+{"query":"What is response relevance?","ground_truth":"Response relevance measures how well an answer addresses the user's question."}
+{"query":"What is coherence in AI evaluation?","ground_truth":"Coherence measures whether a response is logical, clear, and easy to understand."}
+{"query":"What is content safety?","ground_truth":"Content safety evaluates whether model outputs avoid harmful, inappropriate, or unsafe content."}
+{"query":"What is fine-tuning?","ground_truth":"Fine-tuning is the process of further training a model on specific data to improve task performance."}
+{"query":"What is zero-shot prompting?","ground_truth":"Zero-shot prompting asks a model to perform a task without providing examples."}
+{"query":"What is few-shot prompting?","ground_truth":"Few-shot prompting provides examples to guide the model's response."}
+{"query":"What is a knowledge base?","ground_truth":"A knowledge base is a collection of information that an AI system can use to answer questions."}
+{"query":"What is a retrieval tool in an agent?","ground_truth":"A retrieval tool allows an agent to search and retrieve relevant information from data sources."}
+{"query":"What is tool calling in AI agents?","ground_truth":"Tool calling enables an AI agent to invoke external functions, APIs, or services to complete tasks."}
+{"query":"How does an agent differ from a chatbot?","ground_truth":"An agent can reason and take actions using tools, while a chatbot mainly generates conversational responses."}
+{"query":"Why is evaluation important before deployment?","ground_truth":"Evaluation helps ensure an AI system meets quality, reliability, and safety requirements before release."}
