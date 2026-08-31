@@ -317,7 +317,3 @@ agent-evaluation-github/
     ├── 12-result-safety.png
     └── 13-result-final.png
 ```
-
-## GitHub Upload
-
-Upload the entire folder contents to your GitHub repository. GitHub will automatically render `README.md`, including the tables, code blocks, and screenshots stored in the `assets/` folder.
